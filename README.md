@@ -1,2 +1,2 @@
 # odin-recipes
-Trial
+Here I will create my first front. World be ready.
